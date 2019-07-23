@@ -1,2 +1,2 @@
 # First Site
-Link: https://furqaansiddiqui786.github.io/SampleSite/
+# Live Preview: https://furqaansiddiqui786.github.io/SampleSite/
